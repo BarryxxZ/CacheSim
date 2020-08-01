@@ -1,0 +1,7 @@
+﻿  CacheSim.cpp
+c:\users\iuoii\source\repos\cache_update\cache_update\cachesim.cpp(369): warning C4244: “初始化”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=uint64_t
+          ]
+  Cache_update.vcxproj -> C:\Users\iuoii\source\repos\Cache_update\Debug\Cache_update.exe
